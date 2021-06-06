@@ -1,1 +1,1 @@
-# CareerFoundryPython
+In this scenario, I am a data analyst for InstaCart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. I will be using Python in order to analyze the data and inform Instacart with the results.
